@@ -6,13 +6,11 @@
 - Use the `#times` method to run a block of code a specified number of times
 
 ## Introduction
-
 In this lesson, we'll show how to use control flow to run the same line(s) of
 code multiple times in a loop. Make sure to follow along by running IRB and
 experimenting with the example code.
 
 ## Basic Loops in Ruby
-
 In JavaScript, there are a few common approaches for control flow that will
 allow us to run the same lines of code over and over again. The most basic tool
 is the `while` loop, which works like this in JavaScript:
